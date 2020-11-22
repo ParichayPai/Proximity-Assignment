@@ -1,0 +1,34 @@
+{
+  "name": "proximity-assgn",
+  "version": "1.0.0",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "prop-types": "15.7.2",
+    "react": "17.0.0",
+    "react-detect-offline": "2.4.0",
+    "react-dom": "17.0.0",
+    "react-scripts": "3.4.3",
+    "react-sparklines": "1.7.0",
+    "react-timeago": "5.2.0",
+    "reactbulma": "^3.0.4"
+  },
+  "devDependencies": {
+    "typescript": "3.8.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
